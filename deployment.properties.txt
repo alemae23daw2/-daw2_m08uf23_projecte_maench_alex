@@ -1,0 +1,11 @@
+appdir.includes = composer.json,\
+		visualitzar.php,\
+		borrar.php,\
+		composer.lock,\
+		login.php,\
+		modificar.php,\
+		index.php,\
+		auth.php,\
+		menu.php,\
+		vendor,\
+		afegir.php
